@@ -12,7 +12,6 @@
   ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
   ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   
-  ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   -------------
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinwooPyeon&theme=nord_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinwooPyeon&theme=nord_dark)
