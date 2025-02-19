@@ -17,4 +17,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinwooPyeon&theme=nord_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinwooPyeon&theme=nord_dark)
 </div>
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/min_woo" width="600" height="300"/></a>
+<div align=center>
+  <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/min_woo" width="600" height="300"/></a>
+</div>
