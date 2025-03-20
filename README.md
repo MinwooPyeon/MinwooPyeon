@@ -11,7 +11,9 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
   ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  
+
+  -------------
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min_woo)]
   -------------
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinwooPyeon&theme=nord_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinwooPyeon&theme=nord_dark)
