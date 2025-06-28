@@ -16,6 +16,4 @@
   ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min_woo)]
   -------------
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinwooPyeon&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinwooPyeon&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinwooPyeon&theme=nord_dark)
 </div>
