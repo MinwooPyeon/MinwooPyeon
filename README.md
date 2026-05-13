@@ -142,10 +142,3 @@ ASCEND 기업이 주관한 공모전에서 비트코인 시계열 데이터를 L
 | 🏆 수상 | 삼성 청년 SW AI 아카데미 기업연계 **우수상** (2025.11) — 픽셀로 AI 바이탈플러스 · 8팀 중 2위 |
 | 🗣 어학 | OPIc **IH** |
 
----
-
-<div align="center">
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min_woo)
-
-</div>
