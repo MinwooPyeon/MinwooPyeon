@@ -7,7 +7,6 @@ C/C++를 중심으로 임베디드 SW를 개발합니다.<br>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-MinwooPyeon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MinwooPyeon)
 [![Email](https://img.shields.io/badge/Email-jh06041@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:jh06041@naver.com)
 
 </div>
