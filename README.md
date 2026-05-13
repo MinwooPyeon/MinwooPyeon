@@ -58,7 +58,7 @@ Python과 LSTM 모델을 활용한 시계열 예측 프로젝트에서 데이터
 ## 프로젝트
 
 ### [자율주행 작업자 안전감지 AMR](https://github.com/MinwooPyeon/AMR-Project)
-`SSAFY 기업연계` · 2025.07 – 08
+`삼성 청년 SW AI 아카데미 공통 프로젝트` · 2025.07 – 08
 
 > ROS2, C/C++, IMU, I2C, Raspberry Pi, Jetson Nano
 
@@ -69,8 +69,8 @@ Python과 LSTM 모델을 활용한 시계열 예측 프로젝트에서 데이터
 
 ---
 
-### 픽셀로 AI 바이탈플러스
-`SSAFY 자율 프로젝트` · 2025.10 – 11
+### [픽셀로 AI 바이탈플러스](https://github.com/MinwooPyeon/Kiosk)
+`삼성 청년 SW AI 아카데미 기업연계 프로젝트` · 2025.10 – 11
 
 > Python, BLE, 시선인식, 음성인식
 
@@ -83,7 +83,7 @@ BLE 기반 생체신호 수집과 시선인식·음성인식 AI를 통합한 비
 
 ---
 
-### 비트코인 가격 예측 모델
+### [비트코인 가격 예측 모델](https://github.com/MinwooPyeon/Bitcoin_Prediction)
 `ASCEND 기업 공모전` · 2024.01 – 03
 
 > Python, LSTM, 시계열분석, 데이터전처리
@@ -95,7 +95,7 @@ ASCEND 기업이 주관한 공모전에서 비트코인 시계열 데이터를 L
 
 ---
 
-### AI 우회전 교통사고 예방 시스템
+### [AI 우회전 교통사고 예방 시스템](https://github.com/MinwooPyeon/Capstone)
 `학부 졸업작품` · 2023.11 – 2024.12
 
 > Python, Computer Vision, AI
@@ -128,7 +128,7 @@ ASCEND 기업이 주관한 공모전에서 비트코인 시계열 데이터를 L
 
 | 기간 | 기관 | 내용 |
 |------|------|------|
-| 2025.01 – 2025.12 | 삼성 청년 SW AI 아카데미 (SSAFY) | SW·AI 개발 교육 · 1,600시간 |
+| 2025.01 – 2025.12 | 삼성 청년 SW AI 아카데미 | SW·AI 개발 교육 · 1,600시간 |
 | 2024.01 – 2024.03 | Google Coursera | 데이터 애널리틱스 과정 · 240시간 |
 | 2024.01 – 2024.02 | Google Coursera | IT 지원 과정 · 120시간 |
 
