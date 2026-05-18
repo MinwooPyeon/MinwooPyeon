@@ -8,7 +8,8 @@ C/C++를 중심으로 임베디드 SW를 개발합니다.<br>
 <br>
 
 [![Email](https://img.shields.io/badge/Email-jh06041@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:jh06041@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-minwoo--blog.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://minwoo-blog.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-minwoo--blog.vercel.app-007BFF?style=flat-square&logo=vercel&logoColor=white)](https://minwoo-blog.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.vercel.app-FF6B2B?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-five-amber-628b70ne3i.vercel.app/)
 
 </div>
 
